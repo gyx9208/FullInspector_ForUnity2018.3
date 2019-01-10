@@ -1,0 +1,1 @@
+# FullInspector_ForUnity2018.3
